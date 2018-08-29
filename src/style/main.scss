@@ -1,0 +1,14 @@
+/*
+*  node_modules
+*/
+@import "../../node_modules/normalize.css/normalize";
+@import "../../node_modules/bootstrap-grid/dist/grid";
+@import "../../node_modules/@fortawesome/fontawesome-free-webfonts/css/fontawesome";
+@import "../../node_modules/owl.carousel/dist/assets/owl.carousel";
+
+/*
+* Custom (from src/style/partials)
+*/
+@import "partials/fonts";
+@import "partials/app";
+@import "partials/media";
